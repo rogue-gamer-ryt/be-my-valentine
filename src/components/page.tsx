@@ -49,8 +49,21 @@ export default function Page() {
   const getMainImage = () => {
     const noStickers = [
       "https://media.tenor.com/GgWFywURt9MAAAAi/peachcat-cat.gif",
-      "https://media1.tenor.com/m/D7B36l-_4i0AAAAd/cry-teary-eyed.gif"
-  
+      "https://media1.tenor.com/m/D7B36l-_4i0AAAAd/cry-teary-eyed.gif",
+      "https://media.tenor.com/Guhifn6ZDZUAAAAi/pepe-pepe-the-frog.gif",
+      "https://media1.tenor.com/m/_wJxx_g651MAAAAd/sad-cat-cat-sad.gif",
+      "https://media1.tenor.com/m/t7_iTN0iYekAAAAd/sad-sad-cat.gif",
+      "https://media1.tenor.com/m/BYZf0mMHcY4AAAAC/%E7%9A%849.gif",
+      "https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif",
+      "https://media1.tenor.com/m/CzO6SIM4IvQAAAAd/grogu-sad.gif",
+      "https://media1.tenor.com/m/PnDwB6OVv2QAAAAC/ghost-cod.gif",
+      "https://media1.tenor.com/m/rl06hkp0hlsAAAAC/barun-i-am-fine.gif",
+      "https://media1.tenor.com/m/e-XR_5iBO94AAAAC/i%27m-not-okay-crying.gif",
+      "https://media1.tenor.com/m/kjqof9l6gk8AAAAC/pikachu-sad.gif",
+      "https://media1.tenor.com/m/G9qmH_P1nbsAAAAd/angry-angry-cat.gif",
+      "https://media1.tenor.com/m/jLSQskeoWMMAAAAC/wtf-confused.gif",
+      "https://media1.tenor.com/m/P8OYV56HSRAAAAAd/cry-sad.gif"
+      
     ]
 
     return noStickers[Math.min(noCount, noStickers.length - 1)];
@@ -73,18 +86,18 @@ export default function Page() {
       "Are you sure?",
       "Really sure?",
       "Think again!",
-      "Last chance!",
-      "Surely not?",
+      "Bhaisabbbbbbb, sach mei?",
+      "Gazab bezati hai, sochlo",
       "You might regret this!",
       "Give it another thought!",
       "Are you absolutely certain?",
       "This could be a mistake!",
-      "Have a heart!",
+      "Who even are you?",
       "Don't be so cold!",
       "Change of heart?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
-      "You're breaking my heart ;(",
+      "You're breaking my heart :'(",
     ];
 
     
